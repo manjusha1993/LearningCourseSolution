@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\LearningCourseMVCCore\\LearningCourseMVCCore\\LearningCourseMVCCore.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\LearningCourseWebAPI\\LearningCourseWebAPI\\LearningCourseWebAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
